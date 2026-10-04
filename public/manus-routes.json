@@ -1,0 +1,21 @@
+{
+  "routes": [
+    { "path": "/", "title": "DARKODE Terminal" },
+    { "path": "/login", "title": "Login" },
+    { "path": "/register", "title": "Create Account" },
+    { "path": "/dashboard", "title": "Dashboard" },
+    { "path": "/forums", "title": "Forums" },
+    { "path": "/forums/:category", "title": "Forum Category" },
+    { "path": "/thread/:id", "title": "Thread" },
+    { "path": "/members", "title": "Members" },
+    { "path": "/members/:username", "title": "Member Profile" },
+    { "path": "/messages", "title": "Private Messages" },
+    { "path": "/notifications", "title": "Notifications" },
+    { "path": "/bookmarks", "title": "Bookmarks" },
+    { "path": "/reputation", "title": "Reputation" },
+    { "path": "/settings", "title": "Settings" },
+    { "path": "/stats", "title": "Statistics" },
+    { "path": "/rules", "title": "Community Rules" },
+    { "path": "/moderation", "title": "Moderation" }
+  ]
+}
